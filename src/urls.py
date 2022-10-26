@@ -6,4 +6,3 @@ urlpatterns = [
     path('', include('islamic.urls')),
     path('admin/', admin.site.urls),
 ]
- 
